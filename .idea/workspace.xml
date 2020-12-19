@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8d061ef-30f3-460d-93b9-e13718756360" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YN04eTaJKFBQwGqOKbtmfLRwPG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestCrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCrime" />
+      <module name="FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TestCrime" />
+      <module name="FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCrime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8d061ef-30f3-460d-93b9-e13718756360" name="Default Changelist" comment="" />
+      <created>1582767554987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582767554987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1492" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585432624055">
+      <screen x="0" y="23" width="2560" height="973" />
+    </state>
+    <state x="1492" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.973@0.23.2560.973" timestamp="1585432624055" />
+    <state width="1237" height="491" key="GridCell.Tab.0.bottom" timestamp="1592425074255">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1237" height="491" key="GridCell.Tab.0.bottom/0.23.1920.973@0.23.1920.973" timestamp="1592425074255" />
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.23.2560.973@0.23.2560.973" timestamp="1585432701491" />
+    <state width="1237" height="491" key="GridCell.Tab.0.center" timestamp="1592425074254">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1237" height="491" key="GridCell.Tab.0.center/0.23.1920.973@0.23.1920.973" timestamp="1592425074254" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.23.2560.973@0.23.2560.973" timestamp="1585432701491" />
+    <state width="1237" height="491" key="GridCell.Tab.0.left" timestamp="1592425074253">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1237" height="491" key="GridCell.Tab.0.left/0.23.1920.973@0.23.1920.973" timestamp="1592425074253" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.23.2560.973@0.23.2560.973" timestamp="1585432701490" />
+    <state width="1237" height="491" key="GridCell.Tab.0.right" timestamp="1592425074255">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1237" height="491" key="GridCell.Tab.0.right/0.23.1920.973@0.23.1920.973" timestamp="1592425074255" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.23.2560.973@0.23.2560.973" timestamp="1585432701491" />
+    <state x="464" y="108" key="new project wizard" timestamp="1585434413392">
+      <screen x="0" y="23" width="2560" height="973" />
+    </state>
+    <state x="464" y="108" key="new project wizard/0.23.2560.973@0.23.2560.973" timestamp="1585434413392" />
+  </component>
+</project>
